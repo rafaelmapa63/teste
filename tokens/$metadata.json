@@ -3,7 +3,11 @@
     "core",
     "system/brand",
     "system/outubroRosa",
+    "theme/light",
+    "theme/dark",
     "decision/Primary",
-    "decision/Secondary"
+    "decision/Primary_Copy",
+    "decision/Secondary",
+    "decision/Secondary_Copy"
   ]
 }
