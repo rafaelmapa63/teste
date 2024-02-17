@@ -6,10 +6,23 @@
     "selectedTokenSets": {
       "core": "source",
       "system/brand": "enabled",
-      "decision/Primary": "enabled",
-      "theme/light": "disabled"
+      "decision/Primary": "enabled"
     },
-    "group": "brand"
+    "group": "brand",
+    "$figmaCollectionId": "VariableCollectionId:1:6",
+    "$figmaModeId": "1:0",
+    "$figmaVariableReferences": {
+      "Background.1": "844122139945168ced417c0a808dbc5d3d656882",
+      "text.first": "e54693a9d4118da3e4f963244d767c3dce8e397e",
+      "light.hue": "22b732354ecd8a939fe2c03739824237e5bbcba9",
+      "light.saturation": "fb4f27dfbc60210838083fa25cffe8e6ed39a09d",
+      "light.lightness": "9dc04dcf231fe98872e497e0e406d962c67ed0b5",
+      "light.color": "ea9f7c13fbcb363f077e47dca67ca5850f61a1ef",
+      "dark.hue": "cb988f2c2a53996cdfd12de7e4dee8e5eb2521e7",
+      "dark.saturation": "098a3571554ea6ae9ea2dfa876b9a9ccfcf867e5",
+      "dark.lightness": "a9c89f92a708acf79d7f9b22177f237b6e1a5fcc",
+      "dark.color": "d00d0977a3f259dfa9f8cfde604cf8bfb0a7631a"
+    }
   },
   {
     "id": "a379c0e020bf0a82e2b3e352ed452fe4326b8263",
@@ -18,8 +31,7 @@
     "selectedTokenSets": {
       "core": "source",
       "system/brand": "enabled",
-      "decision/Secondary": "enabled",
-      "theme/light": "disabled"
+      "decision/Secondary": "enabled"
     },
     "group": "brand"
   }
