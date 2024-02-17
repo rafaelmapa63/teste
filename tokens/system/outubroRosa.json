@@ -1,0 +1,38 @@
+{
+  "light": {
+    "hue": {
+      "value": "12",
+      "type": "color"
+    },
+    "saturation": {
+      "value": "12",
+      "type": "color"
+    },
+    "lightness": {
+      "value": "45",
+      "type": "color"
+    },
+    "color": {
+      "value": "hsla({light.hue}, {light.saturation}%, {light.lightness}%, 1)",
+      "type": "color"
+    }
+  },
+  "dark": {
+    "hue": {
+      "value": "56",
+      "type": "color"
+    },
+    "saturation": {
+      "value": "64",
+      "type": "color"
+    },
+    "lightness": {
+      "value": "32",
+      "type": "color"
+    },
+    "color": {
+      "value": "hsla( {dark.hue}, {dark.saturation}%, {dark.lightness}%, 1)",
+      "type": "color"
+    }
+  }
+}

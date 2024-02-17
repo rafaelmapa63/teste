@@ -1,5 +1,10 @@
 {
   "tokenSetOrder": [
-    "core"
+    "core",
+    "system/brand",
+    "system/outubroRosa",
+    "decision/Primary",
+    "decision/Secondary",
+    "theme/light"
   ]
 }
