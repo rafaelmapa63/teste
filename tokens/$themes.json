@@ -6,11 +6,7 @@
     "selectedTokenSets": {
       "core": "source",
       "system/brand": "source",
-      "decision/Primary": "enabled",
-      "decision/Primary_Copy": "disabled",
-      "decision/Secondary_Copy": "disabled",
-      "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "decision/Primary": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:483:2830",
     "$figmaModeId": "483:12",
@@ -27,11 +23,7 @@
     "selectedTokenSets": {
       "core": "source",
       "system/brand": "source",
-      "decision/Secondary": "enabled",
-      "decision/Primary_Copy": "disabled",
-      "decision/Secondary_Copy": "disabled",
-      "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "decision/Secondary": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:483:2830",
     "$figmaModeId": "483:13",
